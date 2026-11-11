@@ -9,4 +9,4 @@ This folder contains the configuration file for the Credit Card Fraud Detection 
 
 ### Download the Trained Model
 
-[Download the trained model](PASTE_YOUR_GOOGLE_DRIVE_MODEL_FILE_LINK_HERE)
+[Download the trained model](https://drive.google.com/file/d/18xXHu8AbgsdhVsLWBWm5LJAkk8FfQzyE/view?usp=drive_link)

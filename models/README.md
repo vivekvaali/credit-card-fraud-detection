@@ -1,7 +1,12 @@
-## Trained Model
-This folder contains the model configuration file.
-The trained Random Forest model is available through the Google Drive download link.
+# Model Files
 
-**Credit Card Fraud Detection – Random Forest Classifier**
+This folder contains the configuration file for the Credit Card Fraud Detection project.
 
-[Click here to download the trained model](https://drive.google.com/file/d/18xXHu8AbgsdhVsLWBWm5LJAkk8FfQzyE/view?usp=drive_link)
+### Files
+
+- `model_config.pkl` – Stores the prediction threshold and feature information.
+- `credit_card_fraud_model_compressed.pkl` – Compressed trained Random Forest model, hosted on Google Drive due to GitHub file-size limitations.
+
+### Download the Trained Model
+
+[Download the trained model](PASTE_YOUR_GOOGLE_DRIVE_MODEL_FILE_LINK_HERE)
